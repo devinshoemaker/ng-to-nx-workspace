@@ -1,7 +1,7 @@
 {
   "npmScope": "ng-to-nx-workspace",
   "implicitDependencies": {
-    "angular.json": "*",
+    "workspace.json": "*",
     "package.json": {
       "dependencies": "*",
       "devDependencies": "*"
